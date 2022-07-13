@@ -7,7 +7,7 @@ function Header() {
         <header>
             <div className="dsmeta-logo-container">
                 <img src={logo} alt="DSMeta" />
-                <h1>Bombom Vendas</h1>
+                <h1>Far Far Away</h1>
                 <p>Desenvolvido por Eduardo Buchhorn</p>
             </div>
         </header>
