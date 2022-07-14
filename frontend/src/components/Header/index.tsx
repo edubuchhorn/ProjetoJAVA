@@ -9,6 +9,7 @@ function Header() {
                 <img src={logo} alt="DSMeta" />
                 <h1>Far Far Away</h1>
                 <p>Desenvolvido por Eduardo Buchhorn</p>
+                <p>https://github.com/edubuchhorn</p>
             </div>
         </header>
     )
