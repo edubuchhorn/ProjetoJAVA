@@ -15,7 +15,7 @@
 	<name>dsmeta</name>
 	<description>Projeto final Java</description>
 	<properties>
-		<java.version>18.0.1.1</java.version>
+		<java.version>18</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
